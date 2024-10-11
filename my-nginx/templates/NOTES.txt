@@ -1,0 +1,5 @@
+Hello, World!!
+Hello, mynginx!!
+
+Thanks for using mynginx!!
+
